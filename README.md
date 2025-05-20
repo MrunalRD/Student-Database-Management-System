@@ -78,6 +78,7 @@ A simple web-based Student Database Management System built with **Streamlit** a
    USE crud1;
 
    CREATE TABLE users (
+   
     Roll_no INT PRIMARY KEY,
    
     Name VARCHAR(255),
