@@ -79,14 +79,20 @@ A simple web-based Student Database Management System built with **Streamlit** a
 
    CREATE TABLE users (
     Roll_no INT PRIMARY KEY,
+   
     Name VARCHAR(255),
+   
     Class INT,
+   
     Percentage FLOAT,
+   
     Email VARCHAR(255),
+   
     Address VARCHAR(255)
+   
    );
 
-# 3. Run the Streamlit app
-  python -m streamlit run directory path filename.py
+ 4. **Run the Streamlit app**
+     python -m streamlit run directory path filename.py
 
 
