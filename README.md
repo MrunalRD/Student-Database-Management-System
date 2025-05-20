@@ -69,8 +69,8 @@ A simple web-based Student Database Management System built with **Streamlit** a
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/student-database-management-system.git
-   cd student-database-management-system
+   git clone https://github.com/MrunalRD/Student-Database-Management-System.git
+   cd Student-Database-Management-System
 
 2. **Create MySQL database and table**
    CREATE DATABASE crud1;
